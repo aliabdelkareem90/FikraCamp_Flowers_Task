@@ -1,0 +1,13 @@
+{
+  "name": "fikracamps_flowers_task",
+  "version": "1.0.0",
+  "description": "FikraCamp flowers task",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Ali Abdulkareem",
+  "license": "ISC"
+}
